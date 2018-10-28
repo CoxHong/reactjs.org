@@ -56,7 +56,7 @@ class Example extends React.Component {
 }
 ```
 
-The state starts as `{ count: 0 }`, and we increment `state.count` when the user clicks a button by calling `this.setState()`. We'll use snippets from this class throughout the page.
+The state starts as `{ count: 0 }`, and we increase `state.count` when the user clicks a button by calling `this.setState()`. We'll use snippets from this class throughout the page.
 
 >Note
 >
